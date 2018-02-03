@@ -9,7 +9,7 @@ var clear = document.getElementById("clear");
 console.log(toggle);
 console.log(clear);
 
-var isRect = false;
+var isRect = true;
 
 var toggleCallBack = function(e){
     isRect = !isRect;
